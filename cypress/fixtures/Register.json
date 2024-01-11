@@ -1,0 +1,16 @@
+{
+
+"Registration":{
+    "FirstName":"Hello",
+    "LastName":"WORLD",
+    "Email":"AsimSirQA01@gmail.com",
+    "Password":"helloworld@1"
+    
+
+},  
+
+"UserLogin":{
+    "Emaill":"AsimSirQA01@gmail.com",
+    "passsword":"helloworld@1"
+}
+}
